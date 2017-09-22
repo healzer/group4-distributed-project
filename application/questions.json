@@ -1,0 +1,165 @@
+{
+	"q0": {
+		"question": "Which one is correct team name in NBA?",
+		"options": [
+			"New York Bulls",
+			"Los Angeles Kings",
+			"Golden State Warriros",
+			"Huston Rocket"
+		],
+		"answer": "3"
+	},
+	"q1": {
+		"question": "5 + 7 = ?",
+		"options": [
+			"10",
+			"11",
+			"12",
+			"13"
+		],
+		"answer": "2"
+	},
+	"q2": {
+		"question": "12 - 8 = ?",
+		"options": [
+			"1",
+			"2",
+			"3",
+			"4"
+		],
+		"answer": "3"
+	},
+	"q3": {
+		"question": "90 - 72 = ?",
+		"options": [
+			"28",
+			"8",
+			"18",
+			"16"
+		],
+		"answer": "2"
+	},
+	"q4": {
+		"question": "Trigonometry: a² + b² = ?",
+		"options": [
+			"ab²",
+			"a²b²",
+			"c²",
+			"none"
+		],
+		"answer": "2"
+	},
+	"q5": {
+		"question": "Why is Isaac Newton famous?",
+		"options": [
+			"Chemistry",
+			"Math & Physics",
+			"President",
+			"King"
+		],
+		"answer": "1"
+	},
+	"q6": {
+		"question": "What is the square root of 144?",
+		"options": [
+			"12",
+			"11",
+			"24",
+			"143"
+		],
+		"answer": "0"
+	},		
+	"q7": {
+		"question": "A six sided die is rolled what is the probabillity of getting a even number?",
+		"options": [
+			"1/6",
+			"0",
+			"1/2",
+			"1/3"
+		],
+		"answer": "2"
+	}	,		
+	"q7": {
+		"question": "How do you write the product \"2 x 2 x 2 x 2 x 2\" ?",
+		"options": [
+			"2^7",
+			"2^5",
+			"2^-5",
+			"2^3"
+		],
+		"answer": "1"
+		
+	}	,		
+	"q8": {
+		"question": "What is 5 to the 0 power?",
+		"options": [
+			"5",
+			"1",
+			"0",
+			"-5"
+		],
+		"answer": "1"
+	},		
+	"q9": {
+		"question": "(0+19)+(12 x 12)=?",
+		"options": [
+			"161",
+			"166",
+			"168",
+			"163"
+		],
+		"answer": "3"
+	},		
+	"q10": {
+		"question": "Which is an algabraic expression for eightynine times a number?",
+		"options": [
+			"n+89",
+			"89/n",
+			"89n",
+			"89+89"
+		],
+		"answer": "2"
+	}	,		
+	"q11": {
+		"question": "Which of the examples below shows the 'Multiplicative Inverse'?",
+		"options": [
+			"2 x (1/2) = 1",
+			"2 x 0 = 0",
+			"2 + (-2) = 0",
+			"2 + 0 = 2"
+		],
+		"answer": "0"
+	}	,		
+	"q12": {
+		"question": "What is 4 divided by 0.25?",
+		"options": [
+			"14",
+			"4",
+			"16",
+			"12"
+		],
+		"answer": "2"
+	}	,		
+	"q13": {
+		"question": "Which of these works was written first?",
+		"options": [
+			"Harry Potter series",
+			"Gone With the Wind",
+			"Mein Kampf",
+			"The Lord of the Rings"
+		],
+		"answer": "2"
+	}	,		
+	"q14": {
+		"question": "A card is picked from a standard 52-card deck. What is the probability of getting a black Queen?",
+		"options": [
+			"2/13",
+			"1/13",
+			"2/26",
+			"1/26"
+		],
+		"answer": "3"
+	}	
+	
+	
+}
