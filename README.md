@@ -2,7 +2,7 @@
 
 In this university project we had to develop a distributed application in a group of 2 people.
 My partner and I have chosen to develop a basic multiplayer game where a player has to traverse a given area and complete quests.
-The purpose of the project was to primarily get familiar with NodeJS and utilize other technologies such as JavaScript, HTML5/CSS3.
+The purpose of the project was to primarily get familiar with Docker, NodeJS and utilize other technologies such as JavaScript, HTML5/CSS3.
 
 ##Requirements
 Docker
